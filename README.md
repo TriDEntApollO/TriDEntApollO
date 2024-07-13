@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=20)
 &nbsp; ![Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=20)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true&border_radius=20)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 
 <h1> <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------> </h1>
-<h2 align=center><img src="./anim-code.gif" height="25px"/>  Tech Stack  <img src="./anim-code.gif" height="25px"/></h2>
+<h2 align=center><img src="./anim-code.gif" height="20px"/>  Tech Stack  <img src="./anim-code.gif" height="20px"/></h2>
 
 <h4 align=center> Languages </h4>
 
