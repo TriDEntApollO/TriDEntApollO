@@ -22,7 +22,7 @@
 
 
 <h1> <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------> </h1>
-<h2 align=center><img src="./anim-code.gif" height="25px"/> Tech Stack <img src="./anim-code.gif" height="25px"/></h2>
+<h2 align=center><img src="./anim-code.gif" height="25px"/>  Tech Stack  <img src="./anim-code.gif" height="25px"/></h2>
 
 <h4 align=center> Languages </h4>
 
