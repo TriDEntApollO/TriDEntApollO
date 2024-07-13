@@ -117,6 +117,7 @@
 <div align=center>
 
 <a href="">![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>
+<a href="">![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)</a>
 <a href="">![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</a>
 
 </div>
@@ -139,6 +140,20 @@
 <a href="">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
 
 </div>
+
+<h4 align=center> Operating Systems </h4>
+
+<div align=center>
+
+<a href="">![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)</a>
+<a href="">![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)</a>
+<a href="">![Debiand](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)</a>
+<a href="">![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
+<a href="">![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</a>
+
+
+</div>
+
 
 </br>
 
