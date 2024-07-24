@@ -12,7 +12,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My-GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=20) &nbsp; ![My-Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=20)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My-GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight) &nbsp; ![My-Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=20)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My-GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true&border_radius=20)
 
 <br/>
