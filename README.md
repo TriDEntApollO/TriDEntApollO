@@ -4,7 +4,6 @@
 
 <h1 align=center> <img src="wave.gif" width="30px"> Hi, Trident Apollo here </h1>
 
-<p align="left"><strong><samp>「</samp></strong></p> 
   <p align="center">
     <samp>
         <b>
@@ -21,8 +20,6 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-<br>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
