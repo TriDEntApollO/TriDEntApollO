@@ -13,8 +13,6 @@
 When I'm not coding, you’ll probably find me sipping on a cup of coffee ☕ (seriously, it’s my fuel!) or indulging in my creative side 🎨. I love drawing and creating art ✏️, and I’m equally passionate about music production 🎵, where I enjoy crafting beats and melodies 🎧. For me, blending creativity with logic is what keeps life exciting!
 
 Feel free to explore my projects and say hi! 🚀
-
-
       </b>
        <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
