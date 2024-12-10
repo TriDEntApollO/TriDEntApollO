@@ -9,7 +9,6 @@
     <samp>
         <b>
    I'm an enthusiastic programmer with a passion for problem-solving 🧩. I've been programming since 2016, and my favorite languages are C ⚙️, C++ 🛠️, and Python 🐍. Currently, I'm pursuing a Bachelor of Technology in Computer Science and Engineering 🎓, honing my skills and diving deep into the world of computing 💻.
-
   When I'm not coding, you’ll probably find me sipping on a cup of coffee ☕ (seriously, it’s my fuel!) or indulging in my creative side 🎨. I love drawing and creating art ✏️, and I’m equally passionate about music production 🎵, where I enjoy crafting beats and melodies 🎧. For me, blending creativity with logic is what keeps life exciting!
 
   Feel free to explore my projects and say hi! 🚀
