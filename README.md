@@ -1,6 +1,5 @@
 ![Profile-banner](./banners/Mario-coding-2.gif)
 
----
 
 <h1 align=center> <img src="wave.gif" width="30px"> Hi, Trident Apollo here </h1>
 
@@ -24,10 +23,8 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
+<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=TriDEntApollO) -->
 
-![github-stats](https://stats.dooboo.io/api/github-stats?login=TriDEntApollO)
-
-<br/>
 
 <div align="center">
   
