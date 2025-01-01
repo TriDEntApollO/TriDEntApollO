@@ -41,8 +41,8 @@
 
 [![GitHub🏆-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=TriDEntApollO&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/TriDEntApollO/github-readme-activity-graph)
 
+<br/>
 
-<h1> <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------> </h1>
 <h2 align=center><img src="./anim-code.gif" height="20px"/>  Tech Stack  <img src="./anim-code.gif" height="20px"/></h2>
 
 <h4 align=center> Languages </h4>
@@ -172,22 +172,16 @@
 <a href="">![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
 <a href="">![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</a>
 
-
 </div>
 
-
-</br>
-
----
+<br/>
 
 <h2 align=center>🏆 GitHub Trophies 🏆</h2>
 
-<br>
+<br/>
 
 <div align=center> 
 
 [![GitHub-trophies](https://github-trophies.vercel.app/?username=TriDEntApollO&theme=nord&layout=compact&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
