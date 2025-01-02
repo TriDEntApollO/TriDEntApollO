@@ -39,10 +39,6 @@
 
 </br>
 
-<div align=center>
-  <img src="https://visitcount.itsvg.in/api?id=TridentApollo&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
-
 <h2 align=center><img src="./anim-code.gif" height="20px"/>  Tech Stack  <img src="./anim-code.gif" height="20px"/></h2>
 
 <h4 align=center> Languages </h4>
@@ -186,4 +182,9 @@
 
 </div>
 
+</br>
+
+<div align=center>
+  <img src="https://visitcount.itsvg.in/api?id=TridentApollo&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</div>
 
