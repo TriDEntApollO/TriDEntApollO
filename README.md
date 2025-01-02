@@ -16,27 +16,26 @@
       </b>
        <br/>
        <br/>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=440&height=50&repeat=ture&lines=I+use+'Arch'+BTW.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=97a4e2&center=true&width=440&height=40&repeat=true&lines=I+use+'Arch'+BTW.">
     </samp>
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=TriDEntApollO) -->
-</br>
-
 <div align="center">
-  
+
 ![My-GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true&border_radius=20)
 <div/>
   
-<div align="center">
-  
-![My-GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight&hide_border=true&count_private=false&border_radius=20) 
-![My-Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=20)
+<div align="center">  
+    
+![My-GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight&hide_border=true&count_private=false&border_radius=20&include_all_commits=true&count_private=true) 
+![My-Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
 <div/>
   
-</br>
-
-![GitHub🏆-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=TriDEntApollO&theme=tokyo-night&hide_border=true&grid=false&custom_title=Contribution%20graph)
+<div align="center">
+    
+![GitHub🏆-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=TriDEntApollO&theme=tokyo-night&hide_border=true&grid=true&custom_title=Contribution%20graph&radius=60&area=true&height=400)
+</div>
 
 </br>
 
