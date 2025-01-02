@@ -3,7 +3,7 @@
 
 <h1 align=center> <img src="wave.gif" width="30px"> Hi, Trident Apollo here </h1>
 
-  <p align="center">
+<p align="center">
     <samp>
         <b>
    I'm an enthusiastic programmer with a passion for problem-solving 🧩. I've been programming since 2016, and my favorite languages are C ⚙️, C++ 🛠️, and Python 🐍. Currently, I'm pursuing a Bachelor of Technology in Computer Science and Engineering 🎓, honing my skills and diving deep into the world of computing 💻. 
@@ -16,32 +16,33 @@
       </b>
        <br/>
        <br/>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=440&height=50&repeat=ture&lines=I+use+'Arch'+BTW.">
     </samp>
-  </p>
-
+</p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
 <!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=TriDEntApollO) -->
+</br>
 
-
+<div align="center">
+  
+![My-GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true&border_radius=20)
+<div/>
+  
 <div align="center">
   
 ![My-GitHub-stats](https://github-readme-stats.vercel.app/api?username=TriDEntApollO&theme=tokyonight&hide_border=true&count_private=false&border_radius=20) 
 ![My-Most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDEntApollO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=20)
 <div/>
   
-<div align="center">
-  
-![My-GitHub-streaks](https://github-readme-streak-stats.herokuapp.com/?user=TriDEntApollO&theme=tokyonight&hide_border=true&border_radius=20)
-<div/>
+</br>
 
-<br/>
+![GitHub🏆-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=TriDEntApollO&theme=tokyo-night&hide_border=true&grid=false&custom_title=Contribution%20graph)
 
-[![GitHub🏆-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=TriDEntApollO&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/TriDEntApollO/github-readme-activity-graph)
+</br>
 
-<br/>
+<div align=center>
+  <img src="https://visitcount.itsvg.in/api?id=TridentApollo&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</div>
 
 <h2 align=center><img src="./anim-code.gif" height="20px"/>  Tech Stack  <img src="./anim-code.gif" height="20px"/></h2>
 
@@ -174,7 +175,7 @@
 
 </div>
 
-<br/>
+</br>
 
 <h2 align=center>🏆 GitHub Trophies 🏆</h2>
 
@@ -182,6 +183,8 @@
 
 <div align=center> 
 
-[![GitHub-trophies](https://github-trophies.vercel.app/?username=TriDEntApollO&theme=nord&layout=compact&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub-trophies](https://github-trophies.vercel.app/?username=TriDEntApollO&theme=discord&layout=compact&no-frame=true&no-bg=true&margin-w=6&row=2&title=MultiLanguage,LongTimeUser,Commits,Issues,Repositories,Stars)
 
 </div>
+
+
