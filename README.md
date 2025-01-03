@@ -1,4 +1,4 @@
-![Profile-banner](./banners/Mario-coding-2.gif)
+![Profile-banner](./banners/Mario-coding-2-cropped.gif)
 
 
 <h1 align=center> <img src="wave.gif" width="30px"> Hi, Trident Apollo here </h1>
