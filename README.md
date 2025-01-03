@@ -16,7 +16,7 @@
       </b>
        <br/>
        <br/>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=97a4e2&center=true&width=440&height=40&repeat=true&lines=I+use+'Arch'+BTW.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=97a4e2&center=true&width=440&height=40&repeat=true&lines=I+use+'Arch'+BTW">
     </samp>
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
