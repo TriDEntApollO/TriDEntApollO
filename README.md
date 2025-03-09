@@ -183,8 +183,3 @@
 </div>
 
 </br>
-
-<div align=center>
-  <img src="https://visitcount.itsvg.in/api?id=TridentApollo&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
-
